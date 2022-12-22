@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.div-item{
+    display: flex;
+    justify-content: space-between;
+}
+.item{
+    height: 100px;
+    width: 100px;
+    background-color: cyan;
+    
+}
