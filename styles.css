@@ -1,12 +1,15 @@
 
-/* Your CSS Code here. */
-.div-item{
+
+.holder{
     display: flex;
     justify-content: space-between;
+    
+    flex-wrap:wrap;
 }
 .item{
     height: 100px;
     width: 100px;
     background-color: cyan;
+    margin-top: 5px;
     
 }
